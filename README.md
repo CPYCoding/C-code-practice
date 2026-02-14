@@ -1,2 +1,2 @@
 # C-code-practice
-Practice code in C
+These are the Practice code I did in C language.
